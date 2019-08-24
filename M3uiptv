@@ -1,0 +1,149 @@
+ 
+ 
+ 
+#EXTM3U
+#EXTINF:-1,Rai 1
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1,Rai 2
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116
+#EXTINF:-1,Rai 3
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117
+#EXTINF:-1,Rete 4
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/Stream(04)/index.m3u8
+#EXTINF:-1,Canale 5
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 1
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/Stream(04)/index.m3u8
+#EXTINF:-1,La 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:-1,Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1,TGCOM24
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/Stream(04)/index.m3u8
+#EXTINF:-1,SKY TG 24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,Rai Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1,Rai Sport Plus
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1,Sportitalia
+https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-ES_e-885278_i-7322046120190419052822_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8?custom-mdt=on&sd=10&b=0-10000&custom-mdt=on&rebase=on&hdntl=exp=1555730915~acl=*~data=hdntl~hmac=6c765bd392bf7a699f9ea631847663bde1e75b0cff57d8c7351bc87ea3f18e41
+#EXTINF:-1,Auto Moto
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:-1,Class Horse TV
+http://37.48.104.71:1935/live/classhorse/playlist.m3u8
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1,Rai 5
+https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_1200/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Rai Gulp
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0004119
+#EXTINF:-1,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1,Rai Scuola
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024268
+#EXTINF:-1,Rai Storia
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024269
+#EXTINF:-1,Rai Sudtirol
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024269
+#EXTINF:-1,Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1,TV 2000
+http://cld04wz.tv2000.it/tv2000_main.m3u8
+#EXTINF:-1,Padre Pio
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+#EXTINF:-1,Parole di Vita
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@624452/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1,20 MEDIASET
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/Stream(04)/index.m3u8
+#EXTINF:-1,Focus Mediaset
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch26)/Stream(04)/index.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Iris
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(04)/index.m3u8
+#EXTINF:-1,Italia 2
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/Stream(04)/index.m3u8
+#EXTINF:-1,La 5
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/Stream(04)/index.m3u8
+#EXTINF:-1,MEDIASET EXTRA
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/Stream(04)/index.m3u8
+#EXTINF:-1,Top Crime
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/Stream(04)/index.m3u8
+#EXTINF:-1,DMAX HD
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1,DONNA TV
+http://wms.shared.streamshow.it/okitalia/okitalia/playlist.m3u8
+#EXTINF:-1,Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:-1,51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1,FM Italia
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:-1,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,R101 TV
+http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
+#EXTINF:-1,Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,Radio Zeta TV
+https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+#EXTINF:-1,Radio Freccia HD
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+#EXTINF:-1,Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1,Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1,Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,Radio Monte Carlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1,Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1,Radio Azzurra
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1,Radio Universal TV
+rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
+#EXTINF:-1,Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:-1,iL Meto It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1,iL Meto it domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1,iL Meto it dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1,QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:-1,HSE24
+rtmp://xapp1023574018c1000286.f.l.f.lb.core-cdn.net/1000286copo playpath=live/app1023574018/w1020002321/live_it_500 swfUrl=http://www.hse24.it/hse24/js/player.swf pageUrl=http://www.hse24.it/diretta-tv/ live=1 timeout=120
+#EXTINF:-1,TeleTicino
+http://teleticinolive.vedge.infomaniak.com/livecast/teleticinolive/playlist.m3u8
+#EXTINF:-1,Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1,Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,Video 33
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+#EXTINF:-1,RTTR TV Trento
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1,Info Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/hasbahca.m3u8
+#EXTINF:-1,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,Italia 7
+http://151.0.207.99:1935/italia7/italia7/chunklist_w664582647.m3u8
+#EXTINF:-1
